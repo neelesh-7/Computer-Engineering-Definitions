@@ -50,6 +50,14 @@ p {
     line-height: 22px;
 }
 
+li {
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: 300;
+    color: #9fa3a7;
+    line-height: 22px;
+}
+
 h1 {
     font-size: 62px;
 }
